@@ -20,7 +20,7 @@ Example
    - High-risk country
    - Account too recent
    - Transaction above 3x monthly salary
-   - 
+     
 Skills practiced:
 Python basics
 Lists and dictionaries
