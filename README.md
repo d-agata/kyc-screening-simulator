@@ -21,15 +21,15 @@ Example
    - Account too recent
    - Transaction above 3x monthly salary
    - 
-Skills practiced
+Skills practiced:
 Python basics
 Lists and dictionaries
 Functions
 Conditional statements
 Rule-based screening logic
 KYC/AML concepts
-Disclaimer
 
+Disclaimer:
 This is an educational project using fictional data. The screening rules are simplified examples and do not represent real AML/KYC policies.
 
 Future improvements
