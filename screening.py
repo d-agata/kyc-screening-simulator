@@ -1,3 +1,6 @@
+# KYC Screening Simulator
+# Educational project using fictional client data.
+
 clients = [
     {"name": "Ana Silva", "country": "Portugal", "transaction_amount": 5000, "account_age_days": 400, "salary": 2500},
     {"name": "John Doe", "country": "Panama", "transaction_amount": 15000, "account_age_days": 10, "salary": 4000},
@@ -5,7 +8,6 @@ clients = [
     {"name": "Igor Petrov", "country": "Russia", "transaction_amount": 20000, "account_age_days": 5, "salary": 6000},
     {"name": "Li Wei", "country": "China", "transaction_amount": 3000, "account_age_days": 100, "salary": 2500},
     {"name": "Ali Reza", "country": "Iran", "transaction_amount": 12000, "account_age_days": 15, "salary": 5000},
-    {"name": "Kim Jong-un", "country": "North Korea", "transaction_amount": 25000, "account_age_days": 2, "salary": 1800},
     {"name": "Sofia Martins","country": "Portugal", "transaction_amount": 900, "account_age_days": 60, "salary": 2500,},
     {"name": "Carlos Mendes", "country": "Spain", "transaction_amount": 7500, "account_age_days": 20, "salary": 5000, },
     {"name": "Leila Hassan", "country": "Iran", "transaction_amount": 1200, "account_age_days": 120, "salary": 1800, },
